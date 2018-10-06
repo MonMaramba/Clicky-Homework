@@ -1,0 +1,22 @@
+.jumbotron {
+	
+    background-blend-mode: lighten;
+   	background-position: center;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #e7283a;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
