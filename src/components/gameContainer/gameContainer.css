@@ -1,6 +1,8 @@
 .cardContainer {
     margin-bottom: 50px;
     padding: 0; 
+    position: relative;
+    align-content: center;
 }
 
 .gameMessage {
@@ -33,4 +35,8 @@
     color: white;
     padding: 20px 0;
     margin-bottom: 25px;
+}
+
+.row {
+    padding-left: 15%;
 }

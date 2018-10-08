@@ -55,7 +55,7 @@ class GameContainer extends Component {
                 </div>
               <div className="container">
                   
-                  <div className="row">
+                  <div className="row col-xs-6 col-sm-6 col-md-4 col-lg-3 col-xl-3">
                       {this.state.images.map(image => (
                           <Cards
                                 key={image.id}

@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.b225ccbb.chunk.css",
-  "main.js": "/static/js/main.3069974c.chunk.js",
-  "main.js.map": "/static/js/main.3069974c.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.b225ccbb.chunk.css.map": "/static/css/main.b225ccbb.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.7e5c8d4dd0342769706bf4b0ed81f8f9.js": "/precache-manifest.7e5c8d4dd0342769706bf4b0ed81f8f9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/clicky-homework/static/css/main.5313c770.chunk.css",
+  "main.js": "/clicky-homework/static/js/main.80693c0f.chunk.js",
+  "main.js.map": "/clicky-homework/static/js/main.80693c0f.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/clicky-homework/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/clicky-homework/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/clicky-homework/static/js/runtime~main.51df9c73.js",
+  "runtime~main.js.map": "/clicky-homework/static/js/runtime~main.51df9c73.js.map",
+  "static/css/main.5313c770.chunk.css.map": "/clicky-homework/static/css/main.5313c770.chunk.css.map",
+  "index.html": "/clicky-homework/index.html",
+  "precache-manifest.b56578017b4ba71783216e4b7d3fa4db.js": "/clicky-homework/precache-manifest.b56578017b4ba71783216e4b7d3fa4db.js",
+  "service-worker.js": "/clicky-homework/service-worker.js"
 }

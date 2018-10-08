@@ -1,8 +1,10 @@
 .allCards {
+    display: inline;
     padding: 10px;
     margin-bottom: 10px;
     border: none;
     text-align: center;
+    position: relative;
 }
 
 .allCards img {
