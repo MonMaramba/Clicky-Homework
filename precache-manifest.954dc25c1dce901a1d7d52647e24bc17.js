@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/clicky-homework/static/js/runtime~main.51df9c73.js"
   },
   {
-    "revision": "80693c0f94a6a49cb455",
-    "url": "/clicky-homework/static/js/main.80693c0f.chunk.js"
+    "revision": "82c1d155c4e11ae89b04",
+    "url": "/clicky-homework/static/js/main.82c1d155.chunk.js"
   },
   {
     "revision": "6105a37ce77693a684b2",
     "url": "/clicky-homework/static/js/1.6105a37c.chunk.js"
   },
   {
-    "revision": "80693c0f94a6a49cb455",
-    "url": "/clicky-homework/static/css/main.5313c770.chunk.css"
+    "revision": "82c1d155c4e11ae89b04",
+    "url": "/clicky-homework/static/css/main.d9c93b90.chunk.css"
   },
   {
-    "revision": "f204d046e92fffb0c05acb7d8bc1e39d",
+    "revision": "c8b06a3074a3d0ba921dacc685500415",
     "url": "/clicky-homework/index.html"
   }
 ];
